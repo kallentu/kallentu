@@ -2,12 +2,14 @@
 
 **Computer Science '22 Student at University of Waterloo**
 
-
+- 💻 Interested in compilers, programming languages and infrastructure.
+- 📷 Hobbyist nature photographer.
+- 🎨 Learning how to watercolor and how to use gouache properly.
+- 💬 Reach out to me regarding any opportunities! I'm always looking to learn more.
 
 <!--
 
-![Kallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kallentu&hide_rank=true&show_icons=true&bg_color=30,00b09b,96c93d&title_color=fff&text_color=fff&icon_color=fff)
-
+![Kallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kallentu&hide_rank=true&hide=contribs&show_icons=true&bg_color=30,00b09b,96c93d&title_color=fff&text_color=fff&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallentu&layout=compact&show_icons=true&bg_color=30,00b09b,96c93d&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
