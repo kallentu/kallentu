@@ -1,12 +1,13 @@
 ## Hey, I'm Kallen!
 
-**Computer Science '22 Student at University of Waterloo**
+**Computer Science 2022 Student at University of Waterloo**
 
-- 💻  Interested in compilers, programming languages and infrastructure.
-- ✨  Spending my free time working on new events and initiative for UW's CS Club.
+- 💻  Interested in compilers, programming languages, distributed systems, and infrastructure.
+- ✨  Looking to support programs and charities that combat homelessness and poverty.
 - 📷  Hobbyist nature photographer.
 - 🎨  Learning how to watercolor and how to use gouache properly.
 - 💬  Reach out to me regarding any opportunities! I'm always looking to learn more.
+
 
 <!--
 
