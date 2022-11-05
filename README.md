@@ -1,15 +1,15 @@
-## Hey, I'm Kallen!
-
-**Computer Science 2022 Student at University of Waterloo**
+## Hey, I'm Kallen
 
 - 💻  Interested in compilers, programming languages, distributed systems, and infrastructure.
-- ✨  Looking to support programs and charities that combat homelessness and poverty.
-- 📷  Hobbyist nature photographer.
-- 🎨  Learning how to watercolor and how to use gouache properly.
-- 💬  Reach out to me regarding any opportunities! I'm always looking to learn more.
+- ✨  Looking to support programs and charities that combat food insecurity and poverty.
+- 💬  Reach out to me regarding any opportunities. I'm always looking to learn more.
 
 
 <!--
+
+**Computer Science 2022 Student at University of Waterloo**
+- 🎨  Learning how to watercolor and how to use gouache properly.
+- 📷  Hobbyist nature photographer.
 
 ![Kallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kallentu&hide_rank=true&hide=contribs&show_icons=true&bg_color=30,00b09b,96c93d&title_color=fff&text_color=fff&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallentu&layout=compact&show_icons=true&bg_color=30,00b09b,96c93d&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
