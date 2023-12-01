@@ -1,8 +1,9 @@
-## Hey, I'm Kallen
+## Hey, I'm Kallen!
+I'm a software engineer at Google, working on the Dart language and compiler.
 
 - 💻  Interested in compilers, programming languages, distributed systems, and infrastructure.
 - ✨  Looking to support programs and charities that combat food insecurity and poverty.
-- 💬  Reach out to me regarding any opportunities. I'm always looking to learn more.
+- 💬  Reach out to me anytime. I'm always looking for new opportunities!
 
 
 <!--
